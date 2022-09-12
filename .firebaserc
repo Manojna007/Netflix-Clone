@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "netflix-clone-c3ba2",
+    "newBuild": "netflix-clone-c3ba2",
+    "builds": "netflix-clone-c3ba2"
+  },
+  "targets": {},
+  "etags": {}
+}
